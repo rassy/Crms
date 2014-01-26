@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/Crms/src/main/resources
+DefaultRootPackage=net.dragonvillage.crms
+DefaultSrcPath=/Crms/src/main/java
+ServletPath=Crms
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
